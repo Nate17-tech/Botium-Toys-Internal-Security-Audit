@@ -8,3 +8,4 @@ This project is a mock internal security audit assignment written for a fictitio
 5. Compliance Checklist
 6. Stakeholder Memorandum
 7. Conclusion
+# Introduction
